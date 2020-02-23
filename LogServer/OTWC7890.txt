@@ -1,0 +1,15 @@
+Wed Aug 07 17:59:53 EDT 2019 Id created
+Wed Aug 07 18:00:34 EDT 2019 No seats available booking failed!
+Wed Aug 07 18:00:34 EDT 2019 Customer unable to registered
+Wed Aug 07 19:33:09 EDT 2019 Id created
+Wed Aug 07 19:33:40 EDT 2019 The event doesnt exist
+Wed Aug 07 19:33:40 EDT 2019 Customer unable to registered
+Wed Aug 07 19:34:25 EDT 2019 Id created
+Wed Aug 07 19:34:34 EDT 2019 Customer registered events
+Wed Aug 07 19:34:34 EDT 2019 Calling booked events
+Wed Aug 07 20:18:19 EDT 2019 Id created
+Wed Aug 07 20:19:05 EDT 2019 No seats available booking failed!
+Wed Aug 07 20:19:05 EDT 2019 Customer unable to registered
+Wed Aug 07 20:21:40 EDT 2019 Id created
+Wed Aug 07 20:21:43 EDT 2019 Customer registered events
+Wed Aug 07 20:21:43 EDT 2019 Calling booked events

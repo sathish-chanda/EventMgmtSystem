@@ -1,0 +1,8 @@
+Wed Aug 07 20:50:33 EDT 2019 Id created
+Wed Aug 07 20:50:36 EDT 2019 Manager registered
+Wed Aug 07 20:50:36 EDT 2019 Manager add event
+Wed Aug 07 20:50:47 EDT 2019 Event added successfully
+Wed Aug 07 20:54:49 EDT 2019 Id created
+Wed Aug 07 20:54:50 EDT 2019 Manager registered
+Wed Aug 07 20:54:50 EDT 2019 Manager add event
+Wed Aug 07 20:55:00 EDT 2019 Event added successfully

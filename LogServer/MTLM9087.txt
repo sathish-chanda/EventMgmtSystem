@@ -1,0 +1,83 @@
+Wed Aug 07 16:55:55 EDT 2019 Id created
+Wed Aug 07 16:55:58 EDT 2019 Manager registered
+Wed Aug 07 16:55:58 EDT 2019 Manager add event
+Wed Aug 07 16:56:15 EDT 2019 Event added successfully
+Wed Aug 07 16:56:25 EDT 2019 Id created
+Wed Aug 07 16:56:34 EDT 2019 Manager registered
+Wed Aug 07 16:56:34 EDT 2019 Manager add event
+Wed Aug 07 16:56:47 EDT 2019 Event added successfully
+Wed Aug 07 17:00:26 EDT 2019 Id created
+Wed Aug 07 17:00:31 EDT 2019 Manager registered
+Wed Aug 07 17:00:31 EDT 2019 Manager add event
+Wed Aug 07 17:00:42 EDT 2019 Event added successfully
+Wed Aug 07 17:17:10 EDT 2019 Id created
+Wed Aug 07 17:17:14 EDT 2019 Manager registered
+Wed Aug 07 17:17:14 EDT 2019 Manager add event
+Wed Aug 07 17:17:20 EDT 2019 Event added successfully
+Wed Aug 07 17:17:42 EDT 2019 Id created
+Wed Aug 07 17:17:53 EDT 2019 Manager registered
+Wed Aug 07 17:17:53 EDT 2019 Manager add event
+Wed Aug 07 17:18:06 EDT 2019 Event added successfully
+Wed Aug 07 17:18:32 EDT 2019 Id created
+Wed Aug 07 17:18:36 EDT 2019 Manager registered
+Wed Aug 07 17:18:36 EDT 2019 Manager add event
+Wed Aug 07 17:18:45 EDT 2019 Event added successfully
+Wed Aug 07 17:45:57 EDT 2019 Id created
+Wed Aug 07 17:45:59 EDT 2019 Manager registered
+Wed Aug 07 17:45:59 EDT 2019 Manager add event
+Wed Aug 07 17:46:32 EDT 2019 Id created
+Wed Aug 07 17:46:35 EDT 2019 Manager registered
+Wed Aug 07 17:46:35 EDT 2019 Manager add event
+Wed Aug 07 17:46:51 EDT 2019 Event added successfully
+Wed Aug 07 17:47:02 EDT 2019 Id created
+Wed Aug 07 17:47:26 EDT 2019 Manager registered
+Wed Aug 07 17:47:26 EDT 2019 Manager add event
+Wed Aug 07 17:47:51 EDT 2019 Event added successfully
+Wed Aug 07 17:48:13 EDT 2019 Id created
+Wed Aug 07 17:48:16 EDT 2019 Manager registered
+Wed Aug 07 17:48:16 EDT 2019 Manager add event
+Wed Aug 07 17:48:38 EDT 2019 Event added successfully
+Wed Aug 07 18:19:27 EDT 2019 Id created
+Wed Aug 07 18:19:34 EDT 2019 Manager registered
+Wed Aug 07 18:19:34 EDT 2019 Manager add event
+Wed Aug 07 18:19:40 EDT 2019 Event added successfully
+Wed Aug 07 18:19:49 EDT 2019 Id created
+Wed Aug 07 18:19:50 EDT 2019 Manager registered
+Wed Aug 07 18:19:50 EDT 2019 Manager add event
+Wed Aug 07 18:20:02 EDT 2019 Event added successfully
+Wed Aug 07 18:20:17 EDT 2019 Id created
+Wed Aug 07 18:20:22 EDT 2019 Manager registered
+Wed Aug 07 18:20:22 EDT 2019 Manager add event
+Wed Aug 07 18:20:30 EDT 2019 Event added successfully
+Wed Aug 07 19:24:45 EDT 2019 Id created
+Wed Aug 07 19:24:47 EDT 2019 Manager registered
+Wed Aug 07 19:24:47 EDT 2019 Manager add event
+Wed Aug 07 19:24:54 EDT 2019 Event added successfully
+Wed Aug 07 19:25:02 EDT 2019 Id created
+Wed Aug 07 19:25:04 EDT 2019 Manager registered
+Wed Aug 07 19:25:04 EDT 2019 Manager add event
+Wed Aug 07 19:25:13 EDT 2019 Event added successfully
+Wed Aug 07 19:25:21 EDT 2019 Id created
+Wed Aug 07 19:25:22 EDT 2019 Manager registered
+Wed Aug 07 19:25:22 EDT 2019 Manager add event
+Wed Aug 07 19:25:33 EDT 2019 Event added successfully
+Wed Aug 07 19:33:47 EDT 2019 Id created
+Wed Aug 07 19:33:59 EDT 2019 Manager registered
+Wed Aug 07 19:33:59 EDT 2019 Manager delete event
+Wed Aug 07 19:34:13 EDT 2019 Event deleted successfully
+Wed Aug 07 20:08:16 EDT 2019 Id created
+Wed Aug 07 20:08:21 EDT 2019 Manager registered
+Wed Aug 07 20:08:21 EDT 2019 Manager add event
+Wed Aug 07 20:08:37 EDT 2019 Event added successfully
+Wed Aug 07 20:08:52 EDT 2019 Id created
+Wed Aug 07 20:08:58 EDT 2019 Manager registered
+Wed Aug 07 20:08:58 EDT 2019 Manager add event
+Wed Aug 07 20:09:12 EDT 2019 Event added successfully
+Wed Aug 07 20:09:21 EDT 2019 Id created
+Wed Aug 07 20:09:29 EDT 2019 Manager registered
+Wed Aug 07 20:09:29 EDT 2019 Manager add event
+Wed Aug 07 20:09:46 EDT 2019 Event added successfully
+Wed Aug 07 20:20:23 EDT 2019 Id created
+Wed Aug 07 20:20:33 EDT 2019 Manager registered
+Wed Aug 07 20:20:33 EDT 2019 Manager delete event
+Wed Aug 07 20:20:50 EDT 2019 Event deleted successfully

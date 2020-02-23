@@ -1,0 +1,29 @@
+
+module RemoteInterface
+{
+	interface remote
+	{
+	 string viewEvents(in string eventType);
+	 
+	 string viewEvents2(in string eventType);
+	
+	 void registerEmployee(in string userId);
+	 
+	 string checkUser(in string userId);
+	 
+	 string addEvent(in string eventype,in string eventid,in long bookingcapacity) ;
+	 
+	 string deleteEvent(in string eventype,in string eventid);
+	 
+	 string bookEvents(in string CustomerId,in string eventtype,in string eventId);
+	 
+	 string viewBookedEvents(in string CustomerId);
+	 
+	 string viewBookedEvents2(in string CustomerId);
+	 
+	 string cancelEvents(in string CustomerId,in string eventtype,in string eventId);
+	 
+	 string swapEvent (in string customerID,in string newEventID,in string newEventType,in string oldEventID,in string oldEventType); 
+	
+	};
+};

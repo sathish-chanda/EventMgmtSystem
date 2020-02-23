@@ -1,0 +1,19 @@
+Wed Aug 07 17:45:31 EDT 2019 Id created
+Wed Aug 07 17:45:46 EDT 2019 Event booking successful!
+Wed Aug 07 17:45:46 EDT 2019 Customer registered
+Wed Aug 07 20:54:18 EDT 2019 Id created
+Wed Aug 07 20:54:31 EDT 2019 Event booking successful!
+Wed Aug 07 20:54:31 EDT 2019 Customer registered
+Wed Aug 07 20:55:21 EDT 2019 Id created
+Wed Aug 07 20:55:52 EDT 2019 Swap sccessfull
+Wed Aug 07 20:56:24 EDT 2019 Id created
+Wed Aug 07 20:56:27 EDT 2019 Customer registered events
+Wed Aug 07 20:56:27 EDT 2019 Calling booked events
+Wed Aug 07 20:56:50 EDT 2019 Id created
+Wed Aug 07 20:56:52 EDT 2019 Customer Cancel Events
+Wed Aug 07 20:57:08 EDT 2019 Successfully cancelled the Event
+Wed Aug 07 20:57:08 EDT 2019 Customer can't cancel the event
+Wed Aug 07 20:57:38 EDT 2019 Id created
+Wed Aug 07 20:57:50 EDT 2019 Id created
+Wed Aug 07 20:57:52 EDT 2019 Customer registered events
+Wed Aug 07 20:57:52 EDT 2019 Calling booked events

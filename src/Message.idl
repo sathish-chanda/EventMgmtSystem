@@ -1,0 +1,26 @@
+module ClientServerInterfaceApp
+{
+  interface ClientServerInterface
+  {
+    
+	
+     string addEvent(in string eventType,in string eventId,in long bookingCapacity);
+
+     string deleteEvent(in string eventType,in string eventId);
+  
+     string listEventAvailability(in string eventType);
+    
+     string bookEvent(in string customerId, in string eventType,in string eventId);
+ 
+     string getBookingSchedule(in string customerId);
+
+     string cancelEvents(in string cutomerId,in string eventType,in string eventId);
+	 
+	 string swapEvent(in string customerId,in string newEventId,in string newEventType,in string oldEventId,in string oldEventType);
+	
+     void printHashMap();
+    
+   	
+	
+	};
+};
